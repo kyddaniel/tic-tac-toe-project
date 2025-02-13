@@ -40,6 +40,7 @@ function App() {
           turns={ gameTurns }
         />
       </div>
+      <Log turns={ gameTurns } />
     </main>
   );
 }
